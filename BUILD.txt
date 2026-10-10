@@ -1,0 +1,2 @@
+BUILD 2026-10-11-0250-AUTH-CLIENT-CLEAN
+Sign In / Create Account titles; Client; Phone Number; Password

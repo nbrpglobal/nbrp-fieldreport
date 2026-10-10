@@ -1,0 +1,2 @@
+BUILD 2026-10-11-0308-AUTH-SINGLE-STATE
+login | register | forgot_password single views

@@ -1,2 +1,0 @@
-BUILD 2026-10-11-0229-I18N-CLEAN-LABELS
-All 9 locales: no slash labels, Custom Logo + hint

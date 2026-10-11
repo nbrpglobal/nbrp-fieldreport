@@ -1,4 +1,0 @@
-BUILD 2026-10-11-1200-STRIPE-PRICING
-Standard $9.99/mo $89/yr | Pro $26/mo $219/yr
-Proceed → Stripe Payment Link (no simulation popup)
-Configure STRIPE_PAYMENT_LINKS in app.js

@@ -1,4 +1,0 @@
-BUILD 2026-10-11-2140-CF-STATIC
-Flat static site for Cloudflare Pages
-index.html at ROOT — no nested field-report-flat folder
-Build command: EMPTY | Output: /

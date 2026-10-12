@@ -1,5 +1,0 @@
-name = "field-report"
-compatibility_date = "2026-10-12"
-
-[assets]
-directory = "."

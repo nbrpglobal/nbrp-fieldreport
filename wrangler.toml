@@ -1,8 +1,0 @@
-# Cloudflare static deploy config for Field Report
-name = "field-report"
-compatibility_date = "2026-10-11"
-
-# Static site: serve files from this directory (repo root)
-[assets]
-directory = "."
-not_found_handling = "single-page-application"

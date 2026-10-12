@@ -1,2 +1,0 @@
-BUILD 2026-10-12-0005-AUTH-SIGNIN-POLISH
-Sign In: X close, Forgot under password, single footer CTA

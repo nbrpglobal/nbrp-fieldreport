@@ -1,8 +1,0 @@
-FLAT ROOT ONLY. Do not put files in a subfolder.
-
-Email template:
-<a href="https://app.nbrpglobal.com/reset-password?token_hash={{ .TokenHash }}&type=recovery">Reset password</a>
-
-Supabase Redirect URLs:
-https://app.nbrpglobal.com/**
-https://app.nbrpglobal.com/reset-password

@@ -1,0 +1,2 @@
+BUILD 2026-10-12-1435-RESET-NO-LOOP
+redirectTo: reset-password.html (static, no CF loop)

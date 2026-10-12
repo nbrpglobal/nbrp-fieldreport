@@ -1,0 +1,7 @@
+name = "field-report"
+compatibility_date = "2026-10-12"
+pages_build_output_dir = "."
+
+[assets]
+directory = "."
+not_found_handling = "none"

@@ -1,2 +1,0 @@
-BUILD 2026-10-12-1030-PHONE-VALIDATE
-E.164 + anti-fake phone before check_phone_cooldown

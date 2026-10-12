@@ -1,0 +1,5 @@
+# Field Report — Cloudflare Pages
+# DO NOT use /* /index.html 200 (SPA fallback). This app is multi-page static HTML.
+# Existing files are served first; only optional pretty aliases below.
+
+/reset-password /reset-password.html 200

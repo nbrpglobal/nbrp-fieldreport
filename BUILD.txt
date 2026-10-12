@@ -1,3 +1,0 @@
-BUILD 2026-10-12-0900-REG-TRIAL-FIX
-Fixed silent register (missing helpers)
-14-day trial + paywall on Save/PDF/Preview

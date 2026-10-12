@@ -1,3 +1,0 @@
-# Field Report
-# No redirects. Cloudflare Pages serves reset-password.html at /reset-password.
-# Do not add /reset-password -> /reset-password.html (that causes a 307 loop).

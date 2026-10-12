@@ -1,5 +1,0 @@
-# Canonical recovery page is the static file (no loop).
-# Optional pretty URL rewrite (200 = rewrite, not HTTP redirect):
-/reset-password /reset-password.html 200
-
-# Do not add /reset-password/ <-> /reset-password 301 pairs (Safari redirect loops).

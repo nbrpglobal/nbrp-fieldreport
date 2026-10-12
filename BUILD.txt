@@ -1,2 +1,0 @@
-BUILD 2026-10-12-1545-RESET-TOKENHASH
-Removed /* SPA fallback; token_hash verifyOtp flow

@@ -1,0 +1,18 @@
+Cloudflare Pages settings (required):
+
+1. Framework preset: None
+2. Build command: LEAVE EMPTY (do not use npx wrangler deploy)
+3. Build output directory: /   (or . )
+4. Root directory: /   (repo root, where index.html lives)
+
+Files must be at the GitHub repository ROOT:
+  index.html
+  app.js
+  styles.css
+  i18n.js
+  nbrplogo.svg
+  reset-password.html
+  _redirects
+  _headers
+
+Do not nest them inside a field-report/ folder.

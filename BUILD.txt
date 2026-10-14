@@ -1,0 +1,2 @@
+BUILD-FLAT-RESET-2026-10-12-2330
+wrangler.toml pages_build_output_dir = .
